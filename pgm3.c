@@ -32,3 +32,56 @@ int main(){
   }
   return 0;
 }
+
+/*
+OUTPUT
+
+Enter your choice:
+	1. Produce
+	2. Consume
+	3. Exit
+2
+Buffer is empty
+Enter your choice:
+	1. Produce
+	2. Consume
+	3. Exit
+1
+
+Enter value to produce: 100
+
+Enter your choice:
+	1. Produce
+	2. Consume
+	3. Exit
+1
+
+Enter value to produce: 200
+
+Enter your choice:
+	1. Produce
+	2. Consume
+	3. Exit
+2
+
+Consumed: 100
+Enter your choice:
+	1. Produce
+	2. Consume
+	3. Exit
+2
+
+Consumed: 200
+Enter your choice:
+	1. Produce
+	2. Consume
+	3. Exit
+2
+Buffer is empty
+Enter your choice:
+	1. Produce
+	2. Consume
+	3. Exit
+3
+
+*/
