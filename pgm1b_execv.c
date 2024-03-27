@@ -12,3 +12,14 @@ int main(){
   printf("This will print\n");
   return 0;
 }
+
+
+
+/*
+OUTPUT
+
+total 24
+-rwxr-xr-x 1 root root 16792 Mar 27 10:47 Main
+-rw-r--r-- 1 root root   229 Mar 27 10:47 Main.c
+
+*/
