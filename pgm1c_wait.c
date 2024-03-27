@@ -18,3 +18,15 @@ int main(){
   }
   return 0;
 }
+
+
+/*
+OUTPUT
+
+Child process started
+0	1	2	3	4	5	6	7	8	9	
+Child process ends
+Parent process started
+Parent process ends
+
+*/
