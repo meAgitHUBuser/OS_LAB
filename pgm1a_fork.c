@@ -17,3 +17,17 @@ int main(){
   }
   return 0;
 }
+
+
+
+/*
+OUTPUT
+
+I am a parent
+I am parent of a parent with pid: 17956
+I am parent 	 pid: 17963
+I am a child
+I am parent of a child with pid: 1
+I am child 	 pid: 17964
+
+*/
