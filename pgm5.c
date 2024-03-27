@@ -44,3 +44,19 @@ int main(){
     }
     return 0;
 }
+
+
+/*
+OUTPUT
+
+Enter the number of jobs: 3
+Enter the job name and processing time: 
+A 1
+B 2
+C 3
+Enter the available resources: 3
+Safe sequence is: A B 
+Not enough resources for further jobs
+
+
+*/
