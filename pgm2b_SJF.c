@@ -50,3 +50,21 @@ int main() {
     findAvgTime(bt, n);
     return 0;
 }
+
+
+/*
+OUTPUT
+
+Enter the number of processes: 3
+Enter the burst time of the processes: 
+14
+58
+12
+Processes	Burst Time	Waiting Time	Turnaround Time
+1		12		0		12
+2		14		12		26
+3		58		26		84
+Average waiting time: 12.67
+Average turnaround time: 40.67
+
+*/
